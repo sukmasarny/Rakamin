@@ -18,7 +18,7 @@ ms.custom:
 
 # Cost Control For Construction Projects
 
-apa arti laju perubahan historis bagi Anda? 
+**Apa arti laju perubahan historis bagi Anda?**
 
 - perubahan akan terjadi jauh lebih cepat dibandingkan masa lalu
 - Anda berpotensi menjadi usang lebih cepat
