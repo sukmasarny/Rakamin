@@ -3,7 +3,7 @@
 
 Materi pertama ini akan membahas Pengendalian Biaya untuk Proyek Konstruksi dengan aspek perubahan dan manajemen perubahan. Seberapa cepat segala sesuatunya berubah dan betapa kita perlu belajar sebagai individu dan organisasi. Fokus khusus adalah pada laju perubahan dan dampaknya terhadap pembelajaran. Jika perusahaan konstruksi tidak beradaptasi dan menjadi tangkas, mereka akan menjadi sia-sia. Pengendalian biaya merupakan bagian integral dari keseluruhan proses ini dan akan ditinjau secara mendalam secara holistik dalam materi ini
 
-## Apa arti laju perubahan historis bagi Anda?**
+## Apa arti laju perubahan historis bagi Anda?
 
 - perubahan akan terjadi jauh lebih cepat dibandingkan masa lalu
 - Anda berpotensi menjadi usang lebih cepat
@@ -15,7 +15,18 @@ Materi pertama ini akan membahas Pengendalian Biaya untuk Proyek Konstruksi deng
 - Posisikan bisnis Anda dengan alat yang diperlukan untuk menguasai bidang dan keahlian Anda sambil tetap tangguh dan mudah beradaptasi terhadap perubahan
 - meningkatkan keunggulan pribadi & operasional 
 
+## Bahkan perubahan pada awal tahun 1900-an mampu mengatasi permasalahan yang ditimbulkannya
+**Saat ini pikirkan tentang perubahan dan dampaknya terhadap perusahaan dan pemerintah**
+   - Uber datang begitu cepat sehingga kota-kota tidak tahu apa yang harus dilakukan karena tidak ada peraturan mengenai jenis usaha ini.
+     Hal ini sudah ada dan masyarakat menyukainya, supir taksi membencinya, dan pemerintah tidak tahu bagaimana mengaturnya atau apa yang harus dilakukan terhadap kemungkinan         hilangnya biaya perizinan dari perusahaan taksi?
+   - Pada saat Blockbuster mengetahui apa yang terjadi, Netflix sudah mulai mengambil market share
+   - GPS menggantikan peta, dan telepon seluler menggantikan perangkat GPS
+   - Penggantian kamera digital, kamera film (Pikirkan apa yang terjadi pada Kodak) dan telepon seluler berhasil menggantikan sebagian besar kamera
+   - Mobil yang bisa mengemudi sendiri? (tentu saja ada mobil self-driving di mana-mana)
+   - **Adakah prediksi tentang perubahan pada industri konstruksi?**
 
+     
+     
 These processes collectively contribute to a safer and healthier workplace. When you use Dynamics 365 with Microsoft 365 products, such as Viva Learning or Viva Engage, you can streamline business processes and improve your overall health and safety metrics.
 
 These processes serve a twofold purpose in any organization. First, they ensure the well-being of employees, reducing the risk of workplace accidents and health-related issues. Second, they help organizations meet legal and regulatory requirements, avoid potential liabilities, and enhance their reputation as responsible corporate citizens. Dynamics 365 implementations facilitate the systematic execution of these processes, providing an efficient and centralized platform for managing safety-related data, incidents, and compliance.
