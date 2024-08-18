@@ -1,20 +1,3 @@
-# Rakamin
-
-﻿---
-title: Manage occupational health and safety business process area
-description: Streamline and enhance safety management processes with Dynamics 365 implementations, improving workplace safety and compliance.
-ms.date: 01/23/2024
-ms.topic: conceptual
-author: rachel-profitt
-ms.author: riblack
-ms.custom:
-  - ai-gen-docs-bap
-  - ai-gen-desc
-  - ai-seo-date:01/10/2024
----
-
-<!-- I changed Viva Learn to Viva Learning in line 35 because that's what I find in the style guide. -->
-
 
 # 1. Cost Control For Construction Projects
 
