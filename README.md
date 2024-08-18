@@ -35,6 +35,33 @@ Teknologi berubah lebih cepat daripada kemampuan manusia beradaptasi terhadapnya
 
 ---
 
+## Tips Belajar
+1. - Ujilah diri Anda sendiri. Kembangkan tes dan pertanyaan Anda sendiri dan cobalah menjawabnya. Semakin sering Anda melakukan ini, Anda akan semakin percaya diri dan semakin       akrab dengan materinya.
+   -  Saya yakin bahwa pembelajaran terbaik sering kali terjadi saat ujian. Jika demikian mengapa tidak sering-sering menguji diri sendiri?
+   -  Dalam pelatihan dan pengembangan yang saya lakukan dengan klien, saya meminta karyawan mereka melakukan tes sehingga mereka dapat mempelajari materi dengan lebih baik.
+   -  Jika materinya tampak berlebihan dan sepertinya terlalu banyak, bagilah menjadi beberapa bagian.
+   -  Saat Anda mempelajari lebih banyak bagian, mereka akan mulai membangun jalur yang akan membuat gambaran besarnya masuk akal
+
+2. - Luangkan waktu setiap hari untuk belajar, ada yang membutuhkan tempat yang tenang, ada pula yang belajar dengan baik di kedai kopi atau kereta bawah tanah (yang terakhir         adalah saya).
+   - Saat membaca materi, alihkan pandangan dan cobalah mengingat poin-poin penting tentang apa yang baru saja Anda baca.
+   - Lakukan ini sesering mungkin karena hal ini memaksa pikiran untuk mengingat pemikiran terbaru Anda dan membangun jalur saraf yang diperlukan untuk memperkuat pembelajaran        Anda.
+   - Hentikan pembelajaran Anda, misalnya timer ke 25 menit.
+   - Matikan ponsel Anda untuk menghindari gangguan, ini disebut mode fokus. Belajarlah selama 25 menit, lalu istirahat sejenak, minum kopi, atau jalan-jalan.
+   - Inilah yang Barbara Oakley sebut sebagai mode difusi. Meskipun Anda telah berhenti belajar, pikiran Anda terus memikirkan materi yang baru saja Anda pelajari dan mulai           menghubungkan dengan pembelajaran lain yang telah terjadi sebelumnya.
+   - Atlet tidak berbaring lalu berlatih sepanjang hari dan malam sebelum suatu pertandingan, begitu pula Anda. Sebarkan dan pastikan Anda tidur malam yang nyenyak sebelum tes        apa pun
+     
+3. - Saat berlatih, gantilah pertanyaan-pertanyaan tersebut.Misalnya. cobalah beberapa bentuk satu ceramah atau bab dan gabungkan bab-babnya.
+   - Jika Anda belajar secara linier seperti satu bab dalam semalam, Anda akan melupakan bab pertama saat Anda mencapai bab ke-7.
+   - Jika Anda mempelajarinya sedikit setiap malam, Anda akan mempelajarinya dengan lebih baik dan akan lebih sesuai dengan bagaimana ujian tersebut disusun.
+   - Cobalah menjelaskan konsep-konsep yang telah Anda pelajari kepada orang lain. Cobalah untuk membuatnya sesederhana mungkin.
+   - Jika Anda dapat mengambil sesuatu yang rumit dan menyederhanakannya sehingga orang lain dapat memahaminya, Anda akan benar-benar memahami materi tersebut dengan baik.
+   - Cobalah materi yang paling membebani mental terlebih dahulu karena pada saat itulah pikiran Anda paling segar. Jika menurut Anda semua ini terlalu melelahkan, ubahlah            kerangkanya.
+   - Daripada berpikir ini terlalu banyak pekerjaan atau saya benci ini, atau saya lebih suka keluar bersama teman-teman saya, pikirkan bagaimana Anda melihat diri Anda dalam 5       sampai 10 tahun dan bagaimana mempelajari hal ini akan membantu Anda mencapainya.
+   - Ubah juga seluruh konsep pembelajaran menjadi sesuatu yang menantang dan merupakan pencapaian ketika Anda berhasil. Kenyataannya adalah dunia berubah lebih cepat dari            sebelumnya dan kemampuan belajar adalah hal terpenting untuk kesuksesan Anda di masa depan.
+  
+     ---
+     ---
+# 1A. Cost Control For Construction Projects
      
 These processes collectively contribute to a safer and healthier workplace. When you use Dynamics 365 with Microsoft 365 products, such as Viva Learning or Viva Engage, you can streamline business processes and improve your overall health and safety metrics.
 
