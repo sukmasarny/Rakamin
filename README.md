@@ -16,23 +16,20 @@ ms.custom:
 <!-- I changed Viva Learn to Viva Learning in line 35 because that's what I find in the style guide. -->
 
 
-# Manage occupational health and safety overview
+# Cost Control For Construction Projects
 
-***Applies to: Dynamics 365 Customer Voice, Dynamics 365 Field Service, Dynamics 365 Finance, Dynamics 365 Guides, Dynamics 365 Human Resources, Dynamics 365 Remote Assist, Dynamics 365 Supply Chain Management***
+apa arti laju perubahan historis bagi Anda? 
 
-In this article, we delve into the intricacies of managing occupational health and safety within an organization, with a particular emphasis on Dynamics 365 implementations.
+- perubahan akan terjadi jauh lebih cepat dibandingkan masa lalu
+- Anda berpotensi menjadi usang lebih cepat
+- berada di 20% teratas bidang Anda
+- tetap upgrade diri di bidang Anda dan selaras dengan perubahan
+- sebagai sebuah bisnis, Anda perlu menyadari peluang-peluang baru sambil belajar dan menggunakan tools yang tidak lekang oleh waktu
+- berkomitmen untuk belajar seumur hidup
+- menjadi efisien dalam belajar belajar (Anda akan menghemat banyak waktu)
+- Posisikan bisnis Anda dengan alat yang diperlukan untuk menguasai bidang dan keahlian Anda sambil tetap tangguh dan mudah beradaptasi terhadap perubahan
+- meningkatkan keunggulan pribadi & operasional 
 
-In today's dynamic business landscape, the implementation of occupational health and safety processes is essential for maintaining a safe and productive work environment. With Dynamics 365, organizations can streamline and enhance their safety management processes. The defined processes can cover areas such as the following list:
-
-- Hazard identification  
-- Safety protocol documentation  
-- Safety condition analysis  
-- Safety audits  
-- Staff training  
-- Injury or illness reporting  
-- Treatment seeking  
-- Cost-of-care determination  
-- Safety communication  
 
 These processes collectively contribute to a safer and healthier workplace. When you use Dynamics 365 with Microsoft 365 products, such as Viva Learning or Viva Engage, you can streamline business processes and improve your overall health and safety metrics.
 
