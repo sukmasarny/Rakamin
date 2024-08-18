@@ -25,6 +25,12 @@ Materi pertama ini akan membahas Pengendalian Biaya untuk Proyek Konstruksi deng
    - Mobil yang bisa mengemudi sendiri? (tentu saja ada mobil self-driving di mana-mana)
    - **Adakah prediksi tentang perubahan pada industri konstruksi?**
 
+
+## Mengapa kita perlu mempercepat/meningkatkan kemampuan belajar kita?
+
+![Screen Shot 2017-02-06 at 10 35 31 AM](https://github.com/user-attachments/assets/fb0d5722-8436-430c-a403-26f49af03a08)
+
+
      
      
 These processes collectively contribute to a safer and healthier workplace. When you use Dynamics 365 with Microsoft 365 products, such as Viva Learning or Viva Engage, you can streamline business processes and improve your overall health and safety metrics.
