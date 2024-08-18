@@ -1,5 +1,5 @@
 
-# 1. Cost Control For Construction Projects
+# 1A. Cost Control For Construction Projects
 
 Materi pertama ini akan membahas Pengendalian Biaya untuk Proyek Konstruksi dengan aspek perubahan dan manajemen perubahan. Seberapa cepat segala sesuatunya berubah dan betapa kita perlu belajar sebagai individu dan organisasi. Fokus khusus adalah pada laju perubahan dan dampaknya terhadap pembelajaran. Jika perusahaan konstruksi tidak beradaptasi dan menjadi tangkas, mereka akan menjadi sia-sia. Pengendalian biaya merupakan bagian integral dari keseluruhan proses ini dan akan ditinjau secara mendalam secara holistik dalam materi ini
 
