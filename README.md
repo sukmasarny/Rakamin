@@ -35,8 +35,6 @@ Teknologi berubah lebih cepat daripada kemampuan manusia beradaptasi terhadapnya
 
 ---
 
-Teknologi berubah lebih cepat daripada kemampuan manusia beradaptasi terhadapnya. Menurut Thomas Friedman, manusia perlu mempercepat kemampuan belajar dan memerintah agar bisa mengejar pertumbuhan eksponensial teknologi, dan saya setuju. Seperti yang digambarkan dalam grafik di atas dari Eric Teller (CEO Lab Penelitian dan Pengembangan Google X) dalam buku Friedman, Thank You For Being Late: An Optimist's Guide to Thriving in the Age of Accelerations, **“laju perubahan teknologi kini semakin cepat. dengan cepat sehingga angka tersebut telah melampaui tingkat rata-rata dimana kebanyakan orang dapat menyerap semua perubahan ini".**
-     
      
 These processes collectively contribute to a safer and healthier workplace. When you use Dynamics 365 with Microsoft 365 products, such as Viva Learning or Viva Engage, you can streamline business processes and improve your overall health and safety metrics.
 
