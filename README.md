@@ -31,6 +31,7 @@ Materi pertama ini akan membahas Pengendalian Biaya untuk Proyek Konstruksi deng
 
 ![Screen Shot 2017-02-06 at 10 35 31 AM](https://github.com/user-attachments/assets/fb0d5722-8436-430c-a403-26f49af03a08)
 
+Teknologi berubah lebih cepat daripada kemampuan manusia beradaptasi terhadapnya. Menurut Thomas Friedman, manusia perlu mempercepat kemampuan belajar dan memerintah agar bisa mengejar pertumbuhan eksponensial teknologi, dan saya setuju. Seperti yang digambarkan dalam grafik di atas dari Eric Teller (CEO Lab Penelitian dan Pengembangan Google X) dalam buku Friedman, Thank You For Being Late: An Optimist's Guide to Thriving in the Age of Accelerations, **“laju perubahan teknologi kini semakin cepat. dengan cepat sehingga angka tersebut telah melampaui tingkat rata-rata dimana kebanyakan orang dapat menyerap semua perubahan ini".**
 ---
 
 Teknologi berubah lebih cepat daripada kemampuan manusia beradaptasi terhadapnya. Menurut Thomas Friedman, manusia perlu mempercepat kemampuan belajar dan memerintah agar bisa mengejar pertumbuhan eksponensial teknologi, dan saya setuju. Seperti yang digambarkan dalam grafik di atas dari Eric Teller (CEO Lab Penelitian dan Pengembangan Google X) dalam buku Friedman, Thank You For Being Late: An Optimist's Guide to Thriving in the Age of Accelerations, **“laju perubahan teknologi kini semakin cepat. dengan cepat sehingga angka tersebut telah melampaui tingkat rata-rata dimana kebanyakan orang dapat menyerap semua perubahan ini".**
