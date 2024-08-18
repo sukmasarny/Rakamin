@@ -16,9 +16,9 @@ ms.custom:
 <!-- I changed Viva Learn to Viva Learning in line 35 because that's what I find in the style guide. -->
 
 
-# Cost Control For Construction Projects
+# 1. Cost Control For Construction Projects
 
-**Apa arti laju perubahan historis bagi Anda?**
+## **Apa arti laju perubahan historis bagi Anda?**
 
 - perubahan akan terjadi jauh lebih cepat dibandingkan masa lalu
 - Anda berpotensi menjadi usang lebih cepat
