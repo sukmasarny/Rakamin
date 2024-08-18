@@ -3,7 +3,7 @@
 
 Materi pertama ini akan membahas Pengendalian Biaya untuk Proyek Konstruksi dengan aspek perubahan dan manajemen perubahan. Seberapa cepat segala sesuatunya berubah dan betapa kita perlu belajar sebagai individu dan organisasi. Fokus khusus adalah pada laju perubahan dan dampaknya terhadap pembelajaran. Jika perusahaan konstruksi tidak beradaptasi dan menjadi tangkas, mereka akan menjadi sia-sia. Pengendalian biaya merupakan bagian integral dari keseluruhan proses ini dan akan ditinjau secara mendalam secara holistik dalam materi ini
 
-## **Apa arti laju perubahan historis bagi Anda?**
+## Apa arti laju perubahan historis bagi Anda?**
 
 - perubahan akan terjadi jauh lebih cepat dibandingkan masa lalu
 - Anda berpotensi menjadi usang lebih cepat
